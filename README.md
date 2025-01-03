@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vikas vishwakarma</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
-
+<img align ="right" alt = "coding" width= "400 " src="![image](https://github.com/user-attachments/assets/d7fb0b2e-a3c6-4565-a756-5b3cd12fc9c6)">
 - 🌱 I’m currently learning **react.js , next.js , node.js**
 
 - 📝 I regularly write articles on [https://vikasvishwakarma018.github.io/iCoder--hevan-programer/](https://vikasvishwakarma018.github.io/iCoder--hevan-programer/)
