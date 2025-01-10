@@ -27,8 +27,8 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>  <p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Vishal2186&show_icons=true&theme=nightowl&hide_border=fals" width = "42.4%">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vishal2186&theme=nightowl&hide_border=false" width = "45%">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Vikasvishwakarma018&show_icons=true&theme=nightowl&hide_border=fals" width = "42.4%">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vikasvishwakarma018&theme=nightowl&hide_border=false" width = "45%">
 </p>
 <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" width="200" height="200"  align="right">
 Here are some ideas to get you started:<br><br>
