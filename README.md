@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **react.js , next.js , node.js**
     
-- 📝 I regularly write articles on [https://vikasvishwakarma018.github.io/iCoder--hevan-programer/](https://vikasvishwakarma018.github.io/iCoder--hevan-programer/)
+- 📝 I regularly write articles click to view  - - > <a href="https://vikasvishwakarma018.github.io/iCoder--hevan-programer/"><img  width = 20 src="https://e7.pngegg.com/pngimages/928/549/png-clipart-magnifying-glass-computer-icons-magnification-loupe-glass-technic.png" alt="view"/></a>
     
 - 💬 Ask me about **Full stack web devloper**
-- 📫 How to reach me **visv9199@gmail.com**
   
 <h3 align="left">Connect with me: </h3>
 
     
 <p align="left">
+<a href="visv9199@gmail.com"><img  align="center" width = 35  height=38 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
 <a href="https://linkedin.com/in/vikas vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas vishwakarma" height="30" width="40" /></a>
 <a href="https://instagram.com/vikas__v18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikas__v18" height="30" width="40" /></a>
 </p>
@@ -30,18 +30,26 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=Vikasvishwakarma018&show_icons=true&theme=nightowl&hide_border=fals" width = "42.4%">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Vikasvishwakarma018&theme=nightowl&hide_border=false" width = "45%">
 </p>
-<img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" width="200" height="200"  align="right">
-Here are some ideas to get you started:<br><br>
 
-- 🌱 I’m currently learning <span> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/> </a>
-</span>
 
-- 🌱 I’m currently learning **react.js , next.js , node.js** 
-- 👯 I’m looking to collaborate on started for  this Jureny"Enjoy the collaborate"
-- 💬 Ask me about ..Full Stack web Devloper
-- 📫 How to reach me: visv9199@gmial.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Enjoy This Web Devloper Jureny
+
+
+
+## Here are some ideas to get you started:
+
+
+- 🌱 I’m currently learning <span>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="30" align="center"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="30" align="center"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="30" align="center"/> </a>  <img src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" width="200" height="200"   align="right">
+</span> <br>
+
+- 👯 I’m looking to collaborate on started for  this Jureny"Enjoy the collaborate"  <br>
+  
+- 💬 Ask me about ..Full Stack web Devloper  <br>
+
+- 📫 How to reach me: visv9199@gmial.com  <br>
+
+- ⚡ Fun fact: Enjoy This Web Devloper Jureny  <br> 
+
+#
 
 <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt=""  align= "left"  width="200">
