@@ -1,5 +1,4 @@
 <img width="200%" src="hr.gif" />
-<br>
 <img width="200%" src="Copy of banner copy.gif" />
 <h1 align="left">Hi 👋, I'm vikas vishwakarma
 <p>A passionate frontend & backend developer from India <p/> </p></h1>
