@@ -1,3 +1,5 @@
+<img width="200%" src="hr.gif" />
+<br>
 <img width="200%" src="Copy of banner copy.gif" />
 <h1 align="left">Hi 👋, I'm vikas vishwakarma
 <p>A passionate frontend & backend developer from India <p/> </p></h1>
@@ -53,3 +55,5 @@
 #
 
 <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt=""  align= "left"  width="200">
+<br>
+<img width="200%" src="hr.gif" />
