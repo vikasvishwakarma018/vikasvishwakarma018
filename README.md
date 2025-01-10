@@ -1,7 +1,7 @@
 <img width="200%" src="hr.gif" />
 <img width="200%" src="Copy of banner copy.gif" />
-<h1 align="left">Hi 👋, I'm vikas vishwakarma
-<p>A passionate frontend & backend developer from India <p/> </p></h1>
+<h2 align="left">Hi 👋, I'm vikas vishwakarma
+<p>A passionate frontend & backend developer from India <p/> </p></h2>
 <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="ccoding image " width="250"  align="right" ">  
 
 - 🌱 I’m currently learning **react.js , next.js , node.js**
@@ -49,9 +49,9 @@
 
 #
 <div class="img-container" style="display:flex; justify-content:between; gap:12">
- <img src="https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41" alt=""  width="200" height="110px" display="flex">
+    <img src="https://camo.githubusercontent.com/abe04c0b2ccc0ef7d6677540854002171c38295caa13c50d2832274832442a99/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41" alt=""  width="150" height="110px" display="flex">
 <img src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" alt=""    width="200" display="flex">
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt=""  width="200" height="110px">
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt=""  width="180" height="110px">
 <img src="https://camo.githubusercontent.com/76a9e4695d765fc31e5d0769eeb691ede0b0ad720f451580ca6bfff9a038a847/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3336322f33363234392e676966" alt=""    width="150" display="flex"  height="110px"></div>
 
 <br>
