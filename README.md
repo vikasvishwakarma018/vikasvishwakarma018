@@ -16,7 +16,7 @@
     
 <p align="left">
 <a href="visv9199@gmail.com"><img  align="center" width = 35  height=38 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-<a href="https://linkedin.com/in/vikas vishwakarma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas vishwakarma" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/vikas vishwakarma](https://www.linkedin.com/in/vikas-vishwakarma-3188a9334/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas vishwakarma" height="30" width="40" /></a>
 <a href="https://instagram.com/vikas__v18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikas__v18" height="30" width="40" /></a>
 </p>
 
