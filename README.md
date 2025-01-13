@@ -54,5 +54,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt=""  width="180" height="110px">
 <img src="https://camo.githubusercontent.com/76a9e4695d765fc31e5d0769eeb691ede0b0ad720f451580ca6bfff9a038a847/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3336322f33363234392e676966" alt=""    width="150" display="flex"  height="110px"></div>
 
-<br>
+
 <img width="200%" src="hr.gif" />
