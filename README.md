@@ -1,25 +1,31 @@
 <img width="200%" src="hr.gif" />
 <img width="200%" src="Copy of banner copy.gif" />
-<h2 align="left">Hi 👋, I'm vikas vishwakarma
-<p>A passionate frontend & backend developer from India <p/> </p></h2>
-<img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="ccoding image " width="250"  align="right" ">  
+<h2 align="left">Hi 👋, I'm vikas vishwakarma <img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" alt="twitter"/>
+</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasvishwakarma018&label=Profile%20views&color=0e75b6&style=flat" alt="vikasvishwakarma018" /> </p>
 
-- 🌱 I’m currently learning **react.js , next.js , node.js**
-    
-- 📝 I regularly write articles click to view  - - > <a href="https://vikasvishwakarma018.github.io/iCoder--hevan-programer/"><img  width = 20 src="https://e7.pngegg.com/pngimages/928/549/png-clipart-magnifying-glass-computer-icons-magnification-loupe-glass-technic.png" alt="view"/></a>
-    
-- 💬 Ask me about **Full stack web devloper**
-  
-<h3 align="left">Connect with me: </h3>
 
+<table>
+    <tbody border="0" cellspacing="0" cellpadding="0">
+        <tr  style="width:70%">
+           <td rowspan=6>
+              
+## Abstract
+I'm an web developer by specialization andA passionate frontend & backend developer from India at heart.
+- I'm a student at [Govt Pollytechnic Collage Harusd ](https://gpch.in/).
+- I enjoy playing Vollyboll and Badminton , and reading books. <img width="0%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/03/76/74/78/360_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg" />
+- I regularly write articles on [i-coder-hevan](https://vikasvishwakarma018.github.io/iCoder--hevan-programer/)
+- How to reach me visv9199@gmail.com
+- Let's Connect [LinkedIn Profile](https://www.linkedin.com/in/vikas-vishwakarma-3188a9334/)
+          </td>
+        </tr>
+        <tr>
+            <td width="38%"> <img align="right" alt="Github Image" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /></td>
+        </tr>
+    </tbody>
+</table>
     
-<p align="left">
-<a href="visv9199@gmail.com"><img  align="center" width = 35  height=38 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-<a href="https://www.linkedin.com/in/vikas-vishwakarma-3188a9334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas vishwakarma" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vikas___v18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikas__v18" height="30" width="40" /></a>
-</p>
 
-   
     
 <h3 align="left">Languages and Tools:</h3>  
     
@@ -54,5 +60,20 @@
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt=""  width="180" height="110px">
 <img src="https://camo.githubusercontent.com/76a9e4695d765fc31e5d0769eeb691ede0b0ad720f451580ca6bfff9a038a847/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3336322f33363234392e676966" alt=""    width="150" display="flex"  height="110px"></div>
 
+## Links
+
+<p align="center">
+<a href="visv9199@gmail.com"><img  width = 30 src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/vikas-vishwakarma-3188a9334/"><img width = 30  src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/></a>
+   <a href="https://www.instagram.com/vikas___v18"><img width = 30  src="https://img.icons8.com/color/32/000000//instagram-new.png" alt="linkedin"/></a>
+</p>
+
+#
+
+#
+
+<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=vue-dark&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
+
 
 <img width="200%" src="hr.gif" />
+
