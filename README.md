@@ -71,7 +71,7 @@ I'm an web developer by specialization andA passionate frontend & backend develo
 
 #
 
-<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=vue-dark&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
+<img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=nightowl&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
 
 
 <img width="200%" src="hr.gif" />
