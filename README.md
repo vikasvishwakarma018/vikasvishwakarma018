@@ -11,9 +11,9 @@
            <td rowspan=6>
               
 ## Abstract
-I'm an web developer by specialization andA passionate frontend & backend developer from India at heart.
-- I'm a student at [Govt Pollytechnic Collage Harusd ](https://gpch.in/).
-- I enjoy playing Vollyboll and Badminton , and reading books. <img width="0%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/03/76/74/78/360_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg" />
+I'm an web developer by specialization and A passionate frontend & backend developer from India at heart.
+- I'm a student at [Govt Polytechnic College Harusd ](https://gpch.in/).
+- I enjoy playing volleyball and Badminton , and reading books. <img width="0%" align="right" alt="Github Image" src="https://t3.ftcdn.net/jpg/03/76/74/78/360_F_376747823_L8il80K6c2CM1lnPYJhhJZQNl6ynX1yj.jpg" />
 - I regularly write articles on [i-coder-hevan](https://vikasvishwakarma018.github.io/iCoder--hevan-programer/)
 - How to reach me visv9199@gmail.com
 - Let's Connect [LinkedIn Profile](https://www.linkedin.com/in/vikas-vishwakarma-3188a9334/)
@@ -45,13 +45,13 @@ I'm an web developer by specialization andA passionate frontend & backend develo
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="30" align="center"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="30" align="center"/> </a>  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" height="200"   align="right">
 </span> <br>
 
-- 👯 I’m looking to collaborate on started for  this Jureny"Enjoy the collaborate"  <br>
+- 👯 I’m looking to collaborate on started for  this journey "Enjoy the collaborate"  <br>
   
-- 💬 Ask me about ..Full Stack web Devloper  <br>
+- 💬 Ask me about ..Full Stack web Developer  <br>
 
 - 📫 How to reach me: visv9199@gmial.com  <br>
 
-- ⚡ Fun fact: Enjoy This Web Devloper Jureny  <br> 
+- ⚡ Fun fact: Enjoy This Web Devloper journey  <br> 
 
 #
 
