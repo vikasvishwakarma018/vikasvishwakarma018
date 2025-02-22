@@ -1,5 +1,5 @@
 <img width="200%" src="images/hr.gif" />
-<img width="200%" src="Copy of banner copy.gif" />
+<img width="200%" src="images/newBanner.gif" />
 <h2 align="left">H!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="25" /> I'm vikas vishwakarma <img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" alt="twitter"/>
 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasvishwakarma018&label=Profile%20views&color=0e75b6&style=flat" alt="vikasvishwakarma018" /> </p>
@@ -74,7 +74,7 @@ I'm an web developer by specialization and A passionate frontend & backend devel
 <img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=nightowl&qColor=#ffffff&aColor=#ffffff" alt="Error fetching resource, Refresh again to view Jokes Card"  width = '11000' />
 
 
-<img width="200%" src="hr.gif" />
+<img width="200%" src="images/hr.gif" />
 
 <!--<p align="right">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Macondo&pause=500&color=dfc5fe&vCenter=false&width=630&lines=A+WORLD+OF+ONLY+VICTORS...;A+WORLD+OF+ONLY+PEACE...;A+WORLD+OF+ONLY+LOVE...;I+WILL+CREATE+SUCH+A+WORLD...;I+AM+THE+GHOST+OF+THE+UCHIHA%2C;MADARA+UCHIHA" alt="Typing SVG" /></a>
