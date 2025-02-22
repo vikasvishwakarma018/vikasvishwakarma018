@@ -1,4 +1,4 @@
-<img width="200%" src="hr.gif" />
+<img width="200%" src="images/hr.gif" />
 <img width="200%" src="Copy of banner copy.gif" />
 <h2 align="left">H!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" height="25" /> I'm vikas vishwakarma <img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" alt="twitter"/>
 </h2>
