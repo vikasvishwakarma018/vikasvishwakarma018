@@ -58,7 +58,7 @@ I'm an web developer by specialization and A passionate frontend & backend devel
 ## Links
  <img width="8%" height="45px" align="right" alt="gif" src="images/jjk-banner.gif" /> 
 
- <img width="8%" height="45px" align="left" alt="gif" src="images/naru.gif" /> 
+ <img width="8%" height="45px" align="left" alt="gif" src="images/cherryblossom.gif" /> 
  <!---<img width="8%" height="45px" align="left" alt="gif" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" /> --->
 <!--- <img width="8%" height="45px" align="right" alt="gif" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif" /> --->
 <p align="center">
