@@ -93,6 +93,8 @@ I approach everything like a Product Manager:
 
 </p>
 
+---
+
 ## 🧩 Product Thinking Framework (How I Work)
 
 ```diff
