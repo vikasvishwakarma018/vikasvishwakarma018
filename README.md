@@ -40,36 +40,58 @@ I approach everything like a Product Manager:
 </tbody>
 </table>
     
+<h3 align="left">🚀 Product Management + AI Tools & Skills</h3>
 
-<h3 align="left">Product Management Tools & Skills:</h3>
 <p align="left">
-<span>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+
+<!-- Design & Product Thinking -->
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
 </a>
 
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="40" height="40"/>
+<a href="https://www.notion.so/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40"/>
 </a>
 
-<a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="analytics" width="40" height="40"/>
+<!-- Analytics & Growth -->
+<a href="https://analytics.google.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" width="40"/>
 </a>
 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
+
+<!-- AI Tools -->
+<a href="https://chat.openai.com/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/>
 </a>
 
-<a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ai tools" width="40" height="40"/>
+
+<a href="https://www.perplexity.ai/" target="_blank">
+<img src="https://cdn.simpleicons.org/perplexity" width="40"/>
+</a>
+<!-- PM Execution Tools -->
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40"/>
 </a>
 
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<!-- Development -->
+<a href="https://github.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </a>
-</span>
 
----
+<a href="https://reactjs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+</a>
+
+<!-- NotebookLM -->
+<a href="https://notebooklm.google/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" width="40"/>
+</a>
+
+<a href="https://www.mixpanel.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/mixpanel.svg" width="40"/>
+</a>
+
+</p>
 
 ## 🧩 Product Thinking Framework (How I Work)
 
