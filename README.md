@@ -21,9 +21,9 @@ I approach everything like a Product Manager:
 - 🚀 Build → Test → Improve cycle  
 
 ### 🎓 Current Context
-- Student @ Govt Polytechnic College  
-- Focus: Full Stack + AI + Product Thinking  
-- Goal: Become a high-impact Product/AI Engineer  
+- Student @ Amity University , Noida  
+- Focus: product sense + AI + Product Thinking  
+- Goal: Become a high-impact Product/AI Manager  
 
 ### 💡 Beyond Code
 - 🏐 Volleyball & Badminton → teamwork + discipline  
